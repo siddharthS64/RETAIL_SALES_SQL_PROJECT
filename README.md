@@ -214,7 +214,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - Siddharth Sharma
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-- **Instagram**: [Follow me instagram]([https://www.instagram.com/_siddharth.sh/)]
+- **Instagram**: [Follow me instagram]([https:/(https://www.instagram.com/_siddharth.sh?igsh=MXR5ZG8zenB5OGw0aA==)])
 - **LinkedIn**: [Connect with me professionally]
 
 Thank you for your support, and I look forward to connecting with you!
